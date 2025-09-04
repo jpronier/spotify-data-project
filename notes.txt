@@ -1,0 +1,5 @@
+Tweeter API query:
+- Retweets: collect it for information, but filter it in the search to get the most varied sample of data
+- Language: Keep the multi-language approach in mind for observations and end of project recommendations. Could group by language to get a feeling of what each
+population thinks about the feature
+- How would we research for multiple feature at once, group them, in a smart, condensed way? 
