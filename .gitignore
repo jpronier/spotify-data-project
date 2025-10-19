@@ -211,6 +211,7 @@ __marimo__/
 
 # data files
 *.csv
+data/
 
 # pdf files
 *.pdf 
